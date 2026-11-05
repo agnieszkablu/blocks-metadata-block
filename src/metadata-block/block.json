@@ -6,7 +6,7 @@
 	"title": "Blocks Metadata Block",
 	"category": "widgets",
 	"icon": "smiley",
-	"description": "Example block scaffolded with Create Block tool.",
+	"description": "Blocks metadata block",
 	"example": {},
 	"supports": {
 		"html": false

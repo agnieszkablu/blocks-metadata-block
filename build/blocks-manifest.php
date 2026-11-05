@@ -1,22 +1,22 @@
 <?php
 // This file is generated. Do not modify it manually.
 return array(
-	'boilerplate' => array(
+	'metadata-block' => array(
 		'$schema' => 'https://schemas.wp.org/trunk/block.json',
 		'apiVersion' => 3,
-		'name' => 'create-block/boilerplate',
+		'name' => 'blocks/metadata-block',
 		'version' => '0.1.0',
-		'title' => 'Boilerplate',
+		'title' => 'Blocks Metadata Block',
 		'category' => 'widgets',
 		'icon' => 'smiley',
-		'description' => 'Example block scaffolded with Create Block tool.',
+		'description' => 'Blocks metadata block',
 		'example' => array(
 			
 		),
 		'supports' => array(
 			'html' => false
 		),
-		'textdomain' => 'boilerplate',
+		'textdomain' => 'blocks-metadata-block',
 		'editorScript' => 'file:./index.js',
 		'editorStyle' => 'file:./index.css',
 		'style' => 'file:./style-index.css',
